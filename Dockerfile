@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"
+ARG AUUID="fd85d4af-9428-4124-8689-226ebb029a5e"
 ARG XRAY="https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip"
 ARG HTML="https://github.com/releee/releee.github.io/raw/main/shell-serverstatus-main.zip"
 ARG CADDY="https://github.com/caddyserver/caddy/releases/download/v2.5.2/caddy_2.5.2_linux_amd64.tar.gz"
